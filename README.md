@@ -14,7 +14,7 @@ BOM:
 A.- Code and integrations of Arduino Genuino 101 with components:
 
     0.- Starting with the IMU
-        The Arduino 101, contains internally a IMU (https://store.arduino.cc/arduino-101-619)
+        The Arduino 101, contains internally a IMU (https://www.arduino.cc/en/Tutorial/Genuino101CurieIMURawImuDataSerial)
         TODO: comments related to the calculus, several questions appears on this point
         
     1.- Adding a LCD 20X4

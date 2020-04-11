@@ -11,7 +11,7 @@ BOM:
     * Arduino Genuino 101 https://store.arduino.cc/arduino-101-619 (Retired :( )
     * LCD 20 X 4 with PCF8574T
     
-A.- Code and integration of Arduino Genuino 101 and components
+A.- Code and integrations of Arduino Genuino 101 with components
 
     1.- Starting with the IMU
         The Arduino 101, contains internally a IMU (TODO: Include a reference on Arduino WEBsite)

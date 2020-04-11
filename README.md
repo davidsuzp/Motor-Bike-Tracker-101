@@ -7,6 +7,7 @@ I hope you enjoy during the construction.
 The design and implementation it's based an incremental techniques, so, will be very easy to incorporate different parts and features.
 
 BOM:
+    
     * Arduino Genuino 101 https://store.arduino.cc/arduino-101-619 (Retired :( )
     * LCD 20 X 4 with PCF8574T
     

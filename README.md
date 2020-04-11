@@ -5,6 +5,7 @@ The structure of this project it's based on the electronics, development and fin
 I hope you enjoy during the construction.
 
 The design and implementation it's based an incremental techniques, so, will be very easy to incorporate different parts and features.
+
 1.- Starting with the IMU
     The Arduino 101, contains internally a IMU (TODO: Include a reference on Arduino WEBsite)
     TODO: comments related to the calculus, several questions appears on this point

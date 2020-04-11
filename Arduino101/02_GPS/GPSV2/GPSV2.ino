@@ -26,10 +26,10 @@ SoftwareSerial gps(RX, TX); // Initializing the GPS NEO 6M
 
 void setup() {
   // Starting functions
-  gps.begin(9600);
   startingSerial();
   startingCurieIMU();
   startingLCD20x4();
+  startingGPSNEO();
 
 }
 

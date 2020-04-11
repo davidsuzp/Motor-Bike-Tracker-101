@@ -11,7 +11,7 @@ BOM:
     * Arduino Genuino 101 https://store.arduino.cc/arduino-101-619 (Retired :( )
     * LCD 20 X 4 with PCF8574T
     
-A.- Code and integrations of Arduino Genuino 101 with components
+A.- Code and integrations of Arduino Genuino 101 with components:
 
     1.- Starting with the IMU
         The Arduino 101, contains internally a IMU (TODO: Include a reference on Arduino WEBsite)
@@ -21,8 +21,17 @@ A.- Code and integrations of Arduino Genuino 101 with components
         The first approach was with LCD 20X4, including Libraries (I'm trying to recover the original source, for mentioning purposes, but not found the original) due I remembered changes over the original to function propertly.
     
     3.- 
-B.- 3D Printing 
 
+B.- Electronics and Connections:
+    
+    * Arduino Genuino 101 + LCD:
+    (TODO: Include Fritzing)
+    
+C.- 3D Printing: 
+
+    * FCStd --> Freecad file original
+    * Stls ---> Files to print directly with slicers
+    
 At this moment the repo it's under construction, but all the codes and 3d Files to print are ready to use, will be published periodically.
 
 David

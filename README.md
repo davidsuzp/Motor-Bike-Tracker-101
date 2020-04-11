@@ -9,7 +9,7 @@ The design and implementation it's based an incremental techniques, so, will be 
 BOM:
     
     * Arduino Genuino 101 https://store.arduino.cc/arduino-101-619 (Retired :( )
-    * LCD 20 X 4 with PCF8574T
+    * LCD Display HD44780 (20 X 4) with PCF8574T
     
 A.- Code and integrations of Arduino Genuino 101 with components:
 
@@ -29,8 +29,8 @@ B.- Electronics and Connections:
     
 C.- 3D Printing: 
 
-    * FCStd --> Freecad file original
-    * Stls ---> Files to print directly with slicers
+    * .FCStd --> Freecad file original
+    * .stls ---> Files to print directly with slicers
     
 At this moment the repo it's under construction, but all the codes and 3d Files to print are ready to use, will be published periodically.
 

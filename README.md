@@ -10,7 +10,7 @@ BOM:
     
     * Arduino Genuino 101 https://store.arduino.cc/arduino-101-619 (Retired :( )
     * LCD Display HD44780 (20 X 4) with PCF8574T
-    * GPS Ublox NEO-6M-0-001
+    * GPS Ublox NEO-6M-0-001 (GY-GPS6MV2)
     
 A.- Code and integrations of Arduino Genuino 101 with components:
 

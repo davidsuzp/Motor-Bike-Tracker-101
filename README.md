@@ -23,6 +23,6 @@ A.- Code and integration of Arduino Genuino 101 and components
     3.- 
 B.- 3D Printing 
 
-At this moment the repo it's under construction, but all the codes and 3d Files to print are ready to use, but not published yet.
+At this moment the repo it's under construction, but all the codes and 3d Files to print are ready to use, will be published periodically.
 
 David

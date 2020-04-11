@@ -13,14 +13,15 @@ BOM:
     
 A.- Code and integrations of Arduino Genuino 101 with components:
 
-    1.- Starting with the IMU
+    0.- Starting with the IMU
         The Arduino 101, contains internally a IMU (TODO: Include a reference on Arduino WEBsite)
         TODO: comments related to the calculus, several questions appears on this point
         
-    2.- Adding a LCD 20X4
+    1.- Adding a LCD 20X4
         The first approach was with LCD 20X4, including Libraries (I'm trying to recover the original source, for mentioning purposes, but not found the original) due I remembered changes over the original to function propertly.
     
-    3.- 
+    2.- Adding a GPS NEO 6M
+        Different versions starting on 02_GPS/GPSV2, initial testing, a good moment to know the information returned by GPS and also to know the way to initiate the GPS
 
 B.- Electronics and Connections:
     
